@@ -37,7 +37,6 @@
 		279C7FD4285B14A600BFFDA9 = {
 			isa = PBXGroup;
 			children = (
-				B84606B5285B175D006DD89D /* DetailView.swift */,
 				279C7FDF285B14A600BFFDA9 /* DemoGi */,
 				279C7FDE285B14A600BFFDA9 /* Products */,
 			);
@@ -54,6 +53,7 @@
 		279C7FDF285B14A600BFFDA9 /* DemoGi */ = {
 			isa = PBXGroup;
 			children = (
+				B84606B5285B175D006DD89D /* DetailView.swift */,
 				279C7FE0285B14A600BFFDA9 /* DemoGiApp.swift */,
 				279C7FE2285B14A600BFFDA9 /* ContentView.swift */,
 				279C7FE4285B14A800BFFDA9 /* Assets.xcassets */,
